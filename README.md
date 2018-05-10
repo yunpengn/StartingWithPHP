@@ -4,7 +4,15 @@
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFDhtYayQyFt8tGaA0jiKhoGNqjUQbqJOZnqsINFy9cdi9fehEuwq4P8D9o1u9KLmJEcLEXpZ9l-yD/embed?start=false&loop=false&delayms=60000" frameborder="0" height="550" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: relative; width: 100%;"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFDhtYayQyFt8tGaA0jiKhoGNqjUQbqJOZnqsINFy9cdi9fehEuwq4P8D9o1u9KLmJEcLEXpZ9l-yD/embed?start=false&loop=false&delayms=60000"  id="powerpoint" frameborder="0" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: relative; width: 100%;"></iframe>
+
+<script type="text/javascript">
+	document.addEventListener("DOMContentLoaded", function() {
+		var width = document.getElementById('powerpoint').getBoundingClientRect().width;
+		var height = width / 1280 * 749;
+		document.getElementById('powerpoint').style.height = "" + height + "px";
+	});
+</script>
 
 ## Setup Instructions
 
