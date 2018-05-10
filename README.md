@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Starting with PHP
 
-You can use the [editor on GitHub](https://github.com/yunpengn/StartingWithPHP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Starting with PHP** is a PHP workshop targeted at beginners. The audience are generally expected to have obtained basic programming skills, but with/without a solid background in web development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Slides
 
-### Markdown
+## Setup Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Download the latest version of Bitnami WAPP/MAPP/LAPP with PHP 7.1.x
+	- Windows: [https://bitnami.com/stack/wapp/installer](https://bitnami.com/stack/wapp/installer)
+	- Mac OS: [https://bitnami.com/stack/mapp/installer](https://bitnami.com/stack/mapp/installer)
+	- Linux: [https://bitnami.com/stack/lapp/installer](https://bitnami.com/stack/lapp/installer)
+- Clone the project into your local disk using SSH
+```bash
+git clone git@github.com:yunpengn/StartingWithPHP.git
 ```
+or HTTPS
+```bash
+git clone https://github.com/yunpengn/StartingWithPHP.git
+```
+- This
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Licence
 
-### Jekyll Themes
+This repository is under [GNU General Public Licence 3.0](LICENSE).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yunpengn/StartingWithPHP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You have the freedom to distribute copies of any content within this repository, **if and only if**, under the same licence. In other words, you must make sure that these copies are also free and open source.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also, anything provided here is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
