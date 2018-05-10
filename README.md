@@ -4,6 +4,8 @@
 
 ## Slides
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFDhtYayQyFt8tGaA0jiKhoGNqjUQbqJOZnqsINFy9cdi9fehEuwq4P8D9o1u9KLmJEcLEXpZ9l-yD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Setup Instructions
 
 - Download the latest version of Bitnami WAPP/MAPP/LAPP with PHP 7.1.x
