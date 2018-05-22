@@ -36,7 +36,7 @@ or HTTPS
 ```bash
 git clone --recurse-submodules https://github.com/yunpengn/StartingWithPHP.git
 ```
-or simply click the "Download ZIP" at [https://github.com/yunpengn/StartingWithPHP](https://github.com/yunpengn/StartingWithPHP).
+or simply download from [here](https://github.com/yunpengn/StartingWithPHP/archive/master.zip) _(not recommended)_.
 - _Append_ the following content to `C:\WAPP\apache2\conf\bitnami\bitnami-apps-prefix.conf`.<br>(_This guide assumes you are using WAPP and have installed it to the C Drive. Please change the path accordingly if this is not the case._)
 ```
 Include "C:/WAPP/apps/StartingWithPHP/conf/httpd-prefix.conf"
