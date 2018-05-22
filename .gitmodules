@@ -1,3 +1,4 @@
 [submodule "example"]
 	path = example
 	url = https://github.com/yunpengn/PHP-MVC.git
+	branch = example
