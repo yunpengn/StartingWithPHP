@@ -14,6 +14,14 @@
 	});
 </script>
 
+## Repository structure
+
+- The folder 'basic' contains the source code corresponding to the introduction section of the slides.
+- The folder 'syntax' contains the source code corresponding to the PHP syntax section of the slides.
+- The folder 'bootstrap' contains the source code corresponding to the Bootstrap section of the slides.
+- The folder 'datatable' contains the source code corresponding to the Datatable section of the slides.
+- The folder 'example' is a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules), which links the source code for the login/sign-up example in MVC section of the slides.
+
 ## Setup Instructions
 
 - Download the latest version of Bitnami WAPP/MAPP/LAPP with PHP 7.1.x
