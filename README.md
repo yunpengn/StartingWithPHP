@@ -1,6 +1,8 @@
 ## Starting with PHP
 
-**Starting with PHP** is a PHP workshop targeted at beginners. The audience are generally expected to have obtained basic programming skills, but with/without a solid background in web development.
+**Starting with PHP** is a PHP workshop targeted at beginners. The audience are generally expected to 
+- Solid background in procedural & object-oriented programming;
+- A reasonable amount of knowledge in HTML, CSS, JavaScript.
 
 ## Slides
 
